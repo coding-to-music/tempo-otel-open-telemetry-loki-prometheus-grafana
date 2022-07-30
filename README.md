@@ -1,6 +1,34 @@
+# tempo-otel-open-telemetry-loki-prometheus-grafana
+
+# 🚀 Tempo with OpenTelemetry and Prometheus instrumentation in Go. It includes trace discovery through Logs and Exemplars. 🚀
+
+https://github.com/coding-to-music/tempo-otel-open-telemetry-loki-prometheus-grafana
+
+From / By Joe Elliott https://github.com/joe-elliott
+
+https://github.com/joe-elliott/tempo-otel-example
+
+## Environment variables:
+
+```java
+
+```
+
+## GitHub
+
+```java
+git init
+git add .
+git remote remove origin
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:coding-to-music/tempo-otel-open-telemetry-loki-prometheus-grafana.git
+git push -u origin main
+```
+
 # tempo-otel-example
 
-This example shows a mixture of OpenTelemetry and Prometheus instrumentation in Go.  
+This example shows a mixture of OpenTelemetry and Prometheus instrumentation in Go.
 
 It includes trace discovery through Logs and Exemplars.
 

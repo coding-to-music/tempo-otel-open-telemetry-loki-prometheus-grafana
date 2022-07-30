@@ -1,0 +1,21 @@
+{
+  "name": "tempo-otel-open-telemetry-loki-prometheus-grafana",
+  "version": "1.0.0",
+  "description": "This example shows a mixture of OpenTelemetry and Prometheus instrumentation in Go.",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "git add . && git commit -m Build && git push",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joe-elliott/tempo-otel-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joe-elliott/tempo-otel-example/issues"
+  },
+  "homepage": "https://github.com/joe-elliott/tempo-otel-example#readme"
+}
